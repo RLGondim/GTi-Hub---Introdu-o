@@ -233,5 +233,19 @@ Curso de início rápido com _Github_ by DIO ⌨️💜.
 			</a>
 			</td>
 		</tr>
+
+<tr>
+			<td align="center" valign="top" width="80">
+			<a href="https://youtu.be/b0e8140kZRc">   <img src="./.github/assets/icons/video.png" /> 
+			</a>
+      			</td>
+			<td valign="top">
+			<h3>Como criar uma conta gratuita no Azure</h3>
+			<p>Um vídeo introdutório sobre como criar uma conta gratuita no Azure e evitar custos desnecessários.</p>
+			<a href="https://www.youtube.com/watch?v=8aDA8dPY_rs">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Aula-E94D5F?style=for-the-badge" alt="Ver Video">					</a>
+			</td>
+		</tr>
+  
 	</tbody>
 </table>
