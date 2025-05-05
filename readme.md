@@ -246,5 +246,21 @@ Curso de início rápido com _Github_ by DIO ⌨️💜.
 			 	<img src="https://img.shields.io/badge/Ver%20Aula-E94D5F?style=for-the-badge" alt="Ver Video">						</a>
 			</td>
 		</tr>
+  
+<!--		COMENTARIO
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://youtu.be/b0e8140kZRc">  
+	<img src="./.github/assets/icons/video.png" /> 	
+	</a>
+      	</td>
+			<td valign="top">
+			<h3>TESTE</h3>
+			<p>PROXIMO TESTE.</p>
+			<a href="https://www.youtube.com/watch?v=8aDA8dPY_rs">
+			 	<img src="https://img.shields.io/badge/Ver%20Aula-E94D5F?style=for-the-badge" alt="Ver Video">						</a>
+			</td>
+		</tr>
   	</tbody>
+   -->		
 </table>
