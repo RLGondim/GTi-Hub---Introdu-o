@@ -246,6 +246,19 @@ Curso de início rápido com _Github_ by DIO ⌨️💜.
 			 	<img src="https://img.shields.io/badge/Ver%20Aula-E94D5F?style=for-the-badge" alt="Ver Video">						</a>
 			</td>
 		</tr>
+  		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://youtu.be/b0e8140kZRc">  
+	<img src="./.github/assets/icons/video.png" /> 	
+	</a>
+      	</td>
+			<td valign="top">
+			<h3>Como criar um banco de Dados SQL na AZURE</h3>
+			<p>Vídeo Explicativo sobre como criar um banco de dados na Azure.</p>
+			<a href="https://www.youtube.com/watch?v=aQTOWb8quFg">
+			 	<img src="https://img.shields.io/badge/Ver%20Aula-E94D5F?style=for-the-badge" alt="Ver Video">						</a>
+			</td>
+		</tr>
   
 <!--		COMENTARIO
 		<tr>
